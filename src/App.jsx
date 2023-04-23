@@ -147,7 +147,9 @@ function App() {
           </div>
           <div className="flex flex-col items-center lg:items-start gap-4">
             <div className="border-slate-400 border-2 rounded-md p-4 space-y-3">
-              <h2 className="text-lg font-bold text-custom-red">Send Us a Message</h2>
+              <h2 className="text-lg font-bold text-custom-red">
+                Send Us a Message
+              </h2>
               <form className="space-y-3">
                 <input
                   type="text"
@@ -161,9 +163,9 @@ function App() {
                 />
                 <textarea
                   placeholder="Message"
-                  className="bg-[#0b1323] border-slate-400 border-2 rounded-md pl-10 pr-4 py-2 w-full focus:outline-none focus:border-blue-500 text-slate-600"
+                  className="bg-[#0b1323] border-slate-400 border-2 rounded-md pl-10 pr-4 py-2 w-full focus:outline-none focus:border-blue-500 text-slate-600 resize-none"
                 />
-                <AnchorButton href="#" name="Send Message" />
+                <AnchorButton href="/" name="Send Message" />
               </form>
             </div>
           </div>
