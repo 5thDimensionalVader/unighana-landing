@@ -1,0 +1,26 @@
+[
+    {
+        "name": "University of Ghana",
+        "location": "Legon, Accra",
+        "website": "http://www.ug.edu.gh",
+        "image": "/assets/ug_cover.png"
+    },
+    {
+        "name": "University of Cape Coast",
+        "location": "Cape Coast",
+        "website": "http://www.ucc.edu.gh",
+        "image": "/assets/ucc_cover.png"
+    },
+    {
+        "name": "Kwame Nkrumah University of Science and Technology",
+        "location": "Kumasi",
+        "website": "http://www.knust.edu.gh",
+        "image": "/assets/knust_cover.png"
+    },
+    {
+        "name": "Ashesi University",
+        "location": "Accra",
+        "website": "http://www.ashesi.edu.gh",
+        "image": "/assets/ashesi_cover.png"
+    }
+]
